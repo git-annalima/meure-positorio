@@ -1,3 +1,15 @@
-Datacenter
-IaC
-anna
+git init: cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
+git config: é a função conveniente usada para definir valores de configuração do Git em projetos de nível global ou local.
+git status: exibe as condições do diretório de trabalho e da área de staging.
+git add: adiciona uma alteração no diretório ativo à área de staging.
+git commit: captura um instantâneo das mudanças preparadas do projeto no momento. 
+git branch: permite criar, listar, renomear e excluir ramificações.
+git checkout: permite navegar entre ramificações criadas pelo git branch.
+git merge: permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
+git remote: uma interface para gerenciar uma lista de entradas remotas que são armazenadas no arquivo ./. git/config do repositório. 
+git push: é usado para enviar o conteúdo do repositório local para um repositório remoto.
+git pull:
+git clone:
+git reset:
+git log:
+git diff:
