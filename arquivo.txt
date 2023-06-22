@@ -8,8 +8,9 @@ git checkout: permite navegar entre ramificações criadas pelo git branch.
 git merge: permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
 git remote: uma interface para gerenciar uma lista de entradas remotas que são armazenadas no arquivo ./. git/config do repositório. 
 git push: é usado para enviar o conteúdo do repositório local para um repositório remoto.
-git pull:
-git clone:
-git reset:
-git log:
-git diff:
+git pull: é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais.
+git clone: copia um repositório do Git existente.
+git reset:  é um comando poderoso usado para desfazer alterações locais no estado de um repositório do Git.
+git log: é a ferramenta básica do Git para explorar o histórico de um repositório.
+git diff: é um comando Git multiuso que, quando executado, realiza uma função de comparação nas fontes de dados Git.
+
